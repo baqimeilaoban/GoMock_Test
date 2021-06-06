@@ -24,3 +24,6 @@ func ShouldSummerBeComing(actual interface{}, expected ...interface{}) string {
 	}
 }
 
+func test() {
+
+}
