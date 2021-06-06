@@ -23,7 +23,3 @@ func ShouldSummerBeComing(actual interface{}, expected ...interface{}) string {
 		return "summer is not coming!"
 	}
 }
-
-func test() {
-
-}
